@@ -30,13 +30,15 @@
       ],
       "props": { 
         "verticalAlign": "middle",
-        "preventVerticalStretch": true
+        "preventVerticalStretch": true,
+        "rowGap": 5
       }      
     },
     "product-price": {
       "props": {
         "showSavings": true,
-        "showListPrice": true
+        "showListPrice": true,
+        "showInstallments": true
       }
     },
     "flex-layout.row#qty-sku": {
